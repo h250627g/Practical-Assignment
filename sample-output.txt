@@ -1,0 +1,22 @@
+=== BANK ACCOUNT DEMO ===
+
+Account: S001
+Starting balance: $1000.0
+Savings withdrawal rejected: minimum balance of $500.0 must be maintained.
+Balance after withdrawal: $1000.0
+Savings interest added: $20.0
+Balance after month-end: $1020.0
+
+Account: C001
+Starting balance: $500.0
+Current withdrawal successful: $700.0
+Balance after withdrawal: $-200.0
+Monthly maintenance fee deducted: $5.0
+Balance after month-end: $-205.0
+
+Account: S002
+Starting balance: $1500.0
+Savings withdrawal rejected: minimum balance of $1000.0 must be maintained.
+Balance after withdrawal: $1500.0
+Savings interest added: $30.0
+Balance after month-end: $1530.0
